@@ -1,0 +1,20 @@
+{
+  "title": "Leet code ts",
+  "description": "Leet code solutions",
+  "license": "MIT",
+  "author": "Iury Souza",
+  "dependencies": {
+    "node": "^17.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "~16.10.0",
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.0.0",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "typescript": "^4.4.3"
+  },
+  "scripts": {
+    "01": "npx ts-node  ./src/leet-01.ts"
+  }
+}
